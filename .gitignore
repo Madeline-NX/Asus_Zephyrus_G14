@@ -1,0 +1,9 @@
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+active.json
+presets.json
+activity-rules.json
+events-hardware.json
+*.mp4
